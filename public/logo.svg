@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="60" height="60" rx="12" fill="url(#accent)"/>
+  <path d="M30 12c-4 0-7.6 2.3-9.3 6L6.9 50.2C4.7 54.8 8 60 13 60h10.3c3.9 0 7.3-2.1 8.8-5.6L36 43h31.6c1.4 0 2.7-.8 3.3-2l3.8-7.5c.8-1.6.1-3.6-1.5-4.4L37.9 12.8c-2.3-1.1-4.9-1.7-7.9-1.7z" fill="#fff" transform="translate(0,0) scale(0.6)"/>
+  <text x="76" y="40" font-family="'Inter', system-ui, -apple-system, Segoe UI, Roboto" font-size="26" fill="#0f172a" font-weight="800">Artha</text>
+  <text x="148" y="40" font-family="'Inter', system-ui, -apple-system, Segoe UI, Roboto" font-size="26" fill="#f59e0b" font-weight="700">Furniture</text>
+</svg>
