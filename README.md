@@ -1,6 +1,6 @@
 # Artha Furniture - Modern Furniture E-commerce
 
-![Artha Furniture Banner](./public/placeholder-banner.jpg) *[Add your screenshot here]*
+![Artha Furniture Banner](./public/placeholder-banner.png) *[Add your screenshot here]*
 
 A modern, responsive furniture e-commerce website built with Next.js, TypeScript, and Tailwind CSS. This project showcases a clean, user-friendly interface for browsing and purchasing high-quality furniture items.
 
