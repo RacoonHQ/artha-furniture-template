@@ -45,8 +45,8 @@ A modern, responsive furniture e-commerce website built with Next.js, TypeScript
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/artha-furniture.git
-   cd artha-furniture
+   git clone https://github.com/yourusername/artha-furniture-template.git
+   cd artha-furniture-template
    ```
 
 2. Install dependencies
